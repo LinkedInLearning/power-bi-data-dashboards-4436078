@@ -1,0 +1,59 @@
+{
+    "name": "Organizational Custom Theme",
+    "textClasses": {
+        "callout": {
+            "fontSize": 24,
+            "fontFace": "Segoe UI",
+            "color": "#000000"
+        },
+        "title": {
+            "fontSize": 15,
+            "fontFace": "Segoe UI Bold",
+            "color": "#000000"
+        },
+        "header": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI Semibold",
+            "color": "#000000"
+        },
+        "label": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI",
+            "color": "#000000"
+        }
+    },
+    "dataColors": [
+		"#118DFF",
+		"#F2F2F2",
+		"#E66C37",
+		"#E6A836",
+		"#354AE6",
+		"#706A6A",
+		"#0D0D0D"
+		],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "maximum": "#F5C4AF",
+    "center": "#FFFFFF",
+    "minimum": "#A0D1FF",
+    "null": "#F2F2F2",
+       "visualStyles":{
+      	"*": {
+         "*": {
+            "*": [{
+                "wordWrap": true
+            }],
+            "filterCard": [
+              {
+                "$id": "Applied",
+                "foregroundColor": {"solid": {"color": "#000000" } }
+              },
+              {
+                "$id":"Available",
+                "border": true
+              }
+            ]
+         }
+      }
+   }
+}

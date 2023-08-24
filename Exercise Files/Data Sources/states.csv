@@ -1,0 +1,52 @@
+﻿State FIPS,State,State Code,Region
+1,Alabama,AL,South
+2,Alaska,AK,West
+4,Arizona,AZ,West
+5,Arkansas,AR,South
+6,California,CA,West
+8,Colorado,CO,West
+9,Connecticut,CT,Northeast
+10,Delaware,DE,Northeast
+11,District of Columbia,DC,Northeast
+12,Florida,FL,South
+13,Georgia,GA,South
+15,Hawaii,HI,West
+16,Idaho,ID,West
+17,Illinois,IL,Midwest
+18,Indiana,IN,Midwest
+19,Iowa,IA,Midwest
+20,Kansas,KS,Midwest
+21,Kentucky,KY,South
+22,Louisiana,LA,South
+23,Maine,ME,Northeast
+24,Maryland,MD,Northeast
+25,Massachusetts,MA,Northeast
+26,Michigan,MI,Midwest
+27,Minnesota,MN,Midwest
+28,Mississippi,MS,South
+29,Missouri,MO,Midwest
+30,Montana,MT,West
+31,Nebraska,NE,Midwest
+32,Nevada,NV,West
+33,New Hampshire,NH,Northeast
+34,New Jersey,NJ,Northeast
+35,New Mexico,NM,West
+36,New York,NY,Northeast
+37,North Carolina,NC,South
+38,North Dakota,ND,Midwest
+39,Ohio,OH,Midwest
+40,Oklahoma,OK,South
+41,Oregon,OR,West
+42,Pennsylvania,PA,Northeast
+44,Rhode Island,RI,Northeast
+45,South Carolina,SC,South
+46,South Dakota,SD,Midwest
+47,Tennessee,TN,South
+48,Texas,TX,South
+49,Utah,UT,West
+50,Vermont,VT,Northeast
+51,Virginia,VA,South
+53,Washington,WA,West
+54,West Virginia,WV,South
+55,Wisconsin,WI,Midwest
+56,Wyoming,WY,West
