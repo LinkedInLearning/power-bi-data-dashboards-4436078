@@ -6,7 +6,7 @@ This is the repository for the LinkedIn Learning course `course-name`. The full 
 ## Instructions
 This repository has an [Exercise Files folder](https://github.com/LinkedInLearning/power-bi-data-dashboards-4436078/tree/main/Exercise%20Files) and associated sub-folder for each of the videos in the course. Please clone the repo to your local machine and navigate in Power BI to the Exercise Files folder specified in each video to follow along.
 
-The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. Folders marked with '_begin' indicate the starting state for each file in the video, and those marked with '_end' indicate the end state for each file in the video.
+The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter. Folders marked with `_begin` indicate the starting state for each file in the video, and those marked with `_end` indicate the end state for each file in the video.
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
